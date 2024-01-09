@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">To Do List</string>
+    <string name="app_name">My ToDoList App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_main2">MainActivity2</string>
@@ -19,7 +19,7 @@
     <string name="add_color">Add Color</string>
     <string name="categories">Categories</string>
     <string name="tasks_to_do">Tasks To Do</string>
-    <string name="completed_tasks">Completed Tasks</string>
+    <string name="completed_tasks">Mission Accomplished!</string>
     <string name="create_task">Create Task</string>
     <string name="enter_task_information">Enter Task Information</string>
     <string name="due_date">Due Date</string>
