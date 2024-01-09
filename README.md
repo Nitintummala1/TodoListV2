@@ -14,3 +14,5 @@ Local Storage: The app should use local storage to save tasks.
 Platform: Android
 Language: [Kotlin for Android] 
 Local Storage Solution: [Room Realm] 
+# User Interface:
+![alt text](https://github.com/Nitintummala1/TodoListV2/sampleui/viewcompleted.png?raw=true)
